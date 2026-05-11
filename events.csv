@@ -1,0 +1,10 @@
+timestamp,event,details
+2025-11-15 00:39:24,CALIBRATION,"baseline_ear=0.00492, ear_thresh=0.00271, baseline_mar=0.00489, mar_thresh=0.02489"
+2025-11-15 00:39:26,EYE_DROWSY,"dur=1.22, ear=0.0008"
+2025-11-15 00:39:32,EYE_DROWSY,"dur=2.22, ear=0.0008"
+2025-11-15 00:39:37,EYE_DROWSY,"dur=7.26, ear=0.0008"
+2025-11-15 00:40:00,FACE_LOST,lost_sec=2.0
+2025-11-15 00:40:05,FACE_LOST,lost_sec=7.1
+2025-11-15 00:40:10,FACE_LOST,lost_sec=12.1
+2025-11-15 00:40:17,EYE_DROWSY,"dur=1.22, ear=0.0004"
+2025-11-15 00:40:22,EYE_DROWSY,"dur=1.22, ear=0.0026"
